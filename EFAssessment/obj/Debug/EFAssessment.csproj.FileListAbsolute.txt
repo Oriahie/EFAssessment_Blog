@@ -1,0 +1,14 @@
+C:\Repos\EFAssessment\EFAssessment\bin\Debug\EFAssessment.exe.config
+C:\Repos\EFAssessment\EFAssessment\bin\Debug\EFAssessment.exe
+C:\Repos\EFAssessment\EFAssessment\bin\Debug\EFAssessment.pdb
+C:\Repos\EFAssessment\EFAssessment\bin\Debug\EntityFramework.dll
+C:\Repos\EFAssessment\EFAssessment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Repos\EFAssessment\EFAssessment\bin\Debug\EntityFramework.xml
+C:\Repos\EFAssessment\EFAssessment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Repos\EFAssessment\EFAssessment\obj\Debug\EFAssessment.csprojResolveAssemblyReference.cache
+C:\Repos\EFAssessment\EFAssessment\obj\Debug\EFAssessment.csproj.CoreCompileInputs.cache
+C:\Repos\EFAssessment\EFAssessment\obj\Debug\EFAssessment.exe
+C:\Repos\EFAssessment\EFAssessment\obj\Debug\EFAssessment.pdb
+C:\Repos\EFAssessment\EFAssessment\obj\Debug\EFAssessment.Migrations.Initial.resources
+C:\Repos\EFAssessment\EFAssessment\obj\Debug\EFAssessment.csproj.GenerateResource.Cache
+C:\Repos\EFAssessment\EFAssessment\obj\Debug\EFAssessment.Migrations.TagEntity.resources
